@@ -8,5 +8,5 @@ matrix:
     wordlists:
     - .pws
     words:
-    -clockmaker
+    - clockmaker
 
