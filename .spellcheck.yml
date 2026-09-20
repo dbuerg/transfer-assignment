@@ -4,4 +4,9 @@ matrix:
   sources:
   - "**/*.txt"
   - "**/*.md"
+  dictionary:
+    wordlists:
+    - .pws
+    words:
+    -clockmaker
 
